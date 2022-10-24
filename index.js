@@ -11,7 +11,11 @@ app.get('/', (req, res) => {
 })
 
 app.get('/course-category', (req, res) => {
-    res.send()
+    res.send(categories);
+})
+
+app.get('/course', (req,res) => {
+    res.send(course);
 })
 
 app.listen(port, () => {
