@@ -1,0 +1,39 @@
+[
+    {
+      "id": "01",
+      "name": "Python Programming",
+      "description": "python is very popular language for development and machine learning sector.",
+      "photoURL": ""
+    },
+    {
+      "id": "02",
+      "name": "MySQL Database",
+      "description": "python is very popular language for development and machine learning sector.",
+      "photoURL": ""
+    },
+    {
+      "id": "03",
+      "name": "Big Data and Iot",
+      "description": "python is very popular language for development and machine learning sector.",
+      "photoURL": ""
+    },
+    {
+      "id": "04",
+      "name": "Graphics Design",
+      "description": "python is very popular language for development and machine learning sector.",
+      "photoURL": ""
+    },
+    {
+      "id": "05",
+      "name": "Data Structure and Algorithm",
+      "description": "python is very popular language for development and machine learning sector.",
+      "photoURL": ""
+    },
+    {
+      "id": "06",
+      "name": "Mobile App development",
+      "description": "python is very popular language for development and machine learning sector.",
+      "photoURL": ""
+    }
+    
+  ]
