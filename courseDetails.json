@@ -2,8 +2,152 @@
     {
         "id": "01",
         "name": "Python Programming",
-        "description": "python is very popular language for development and machine learning sector.",
+        "creator": "Arko Roy Badhon",
+        "description": "python is very popular language for development and machine learning sector. Web app, mobile app, machine learning etc are possible with python. Everyday increases its demand day by day",
+        "course_module": [
+            {"one": "Python intro"},
+            {"one": "Python Data types"},
+            {"one": "python condition"},
+            {"one": "python loop"},
+            {"one": "python arrays"},
+            {"one": "python Object Oriented Programming"}
+        ],
+        "support": [
+            {"one": "unlimited Support"},
+            {"one": "World Class Mentors with industrial experience"},
+            {"one": "Special care for week students"}
+        ],
         "photoURL": "https://contentstatic.techgig.com/thumb/msid-79386213,width-460,resizemode-4/5-Myths-around-Python-programming-language-that-every-programmer-must-know.jpg?88712",
-        "rating": 4.5
+        "rating": 4.5,
+        "badge": "new",
+        "total_student": "345",
+        "price": "3000",
+        "duration": "22 Hour"
+    },
+    {
+        "id": "02",
+        "name": "MySQL Database",
+        "creator": "Najmul Huda",
+        "description": "MySQL is the most popular Open Source Relational SQL database management system. MySQL is one of the best RDBMS being used for developing web-based software applications.",
+        "course_module": [
+            {"one": "MySQL intro"},
+            {"one": "Creating DB and Table"},
+            {"one": "Insert data"},
+            {"one": "MySQL where,order by"},
+            {"one": "MySQL Limit"},
+            {"one": "MySQL Crud"}
+        ],
+        "support": [
+            {"one": "unlimited Support"},
+            {"one": "World Class Mentors with industrial experience"},
+            {"one": "Special care for week students"}
+        ],
+        "photoURL": "https://i0.wp.com/datascientest.com/wp-content/uploads/2022/03/mySQL_blog_4-106.png?resize=1024%2C562&ssl=1",
+        "rating": 4.2,
+        "badge": "new",
+        "total_student": "45",
+        "price": "2000",
+        "duration": "5 Hour"
+    },
+    {
+        "id": "03",
+        "name": "Big Data and Iot",
+        "creator": "Rocky Bin Salman",
+        "description": "What is IoT in Big Data? Big data takes unstructured data, on anything from traffic patterns to home efficiency information, collected by IoT devices and organizes the information into digestible datasets that inform companies on how to optimize their processes.",
+        "course_module": [
+            {"one": "Hadoop installation"},
+            {"one": "Deal with big data"},
+            {"one": "Introduction to sensors"},
+            {"one": "working with sensors"},
+            {"one": "Hadoop implementation"}
+        ],
+        "support": [
+            {"one": "unlimited Support"},
+            {"one": "World Class Mentors with industrial experience"},
+            {"one": "Special care for week students"}
+        ],
+        "photoURL": "https://www.whizlabs.com/blog/wp-content/uploads/2018/07/iot-and-big-data.png",
+        "rating": 4.5,
+        "badge": "new",
+        "total_student": "145",
+        "price": "8000",
+        "duration": "15 Hour"
+    },
+    {
+        "id": "04",
+        "name": "Graphics Design",
+        "creator": "Salman khan",
+        "description": "Graphic designers create visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, and captivate consumers. They develop the overall layout and production design for applications such as advertisements, brochures, magazines, and reports.",
+        "course_module": [
+            {"one": "Adobe PhotoShop intro"},
+            {"one": "Adobe PhotoShop fundamentals"},
+            {"one": "Adobe Illustraor"},
+            {"one": "Logo design"},
+            {"one": "Banner design"},
+            {"one": "visiting card design"}
+        ],
+        "support": [
+            {"one": "unlimited Support"},
+            {"one": "World Class Mentors with industrial experience"},
+            {"one": "Special care for week students"}
+        ],
+        "photoURL": "https://cosmosgroup.sgp1.cdn.digitaloceanspaces.com/news/1071218_Graphic-Design.jpg",
+        "rating": 4.5,
+        "badge": "new",
+        "total_student": "345",
+        "price": "5000",
+        "duration": "8 Hour"
+    },
+    {
+        "id": "05",
+        "name": "Data Structure and Algorithm",
+        "creator": "Saitama hokagi",
+        "description": "A data structure is a named location that can be used to store and organize data. And, an algorithm is a collection of steps to solve a particular problem. Learning data structures and algorithms allow us to write efficient and optimized computer programs.",
+        "course_module": [
+            {"one": "Data Types"},
+            {"one": "Searcing Operations"},
+            {"one": "Sorting Operations"},
+            {"one": "Insertion"},
+            {"one": "deletion"},
+            {"one": "Greedy algorithms"}
+        ],
+        "support": [
+            {"one": "unlimited Support"},
+            {"one": "World Class Mentors with industrial experience"},
+            {"one": "Special care for week students"}
+        ],
+        "photoURL": "https://miro.medium.com/max/828/1*-EFdnPuVrwUOmYte11v0OA.png",
+        "rating": 4.5,
+        "badge": "new",
+        "total_student": "745",
+        "price": "9000",
+        "duration": "14 Hour"
+    },
+    {
+        "id": "06",
+        "name": "Mobile App Development",
+        "creator": "Naruto Uzomaki",
+        "description": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer.",
+        "course_module": [
+            {"one": "Flutter Introduction"},
+            {"one": "Flutter Data types"},
+            {"one": "Flutter condition"},
+            {"one": "Flutter loop"},
+            {"one": "Flutter arrays"},
+            {"one": "Flutter Object Oriented Programming"},
+            {"one": "mobile app layout"},
+            {"one": "Dynamic mobile app"}
+        ],
+        "support": [
+            {"one": "unlimited Support"},
+            {"one": "World Class Mentors with industrial experience"},
+            {"one": "Special care for week students"}
+        ],
+        "photoURL": "https://www.etatvasoft.com/blog/wp-content/uploads/2022/08/mobile-app-development-methodologies.jpg",
+        "rating": 4.5,
+        "badge": "new",
+        "total_student": "455",
+        "price": "6700",
+        "duration": "28 Hour"
     }
 ]
