@@ -2,37 +2,37 @@
     {
       "id": "01",
       "name": "Python Programming",
-      "description": "python is very popular language for development and machine learning sector.",
+      "description": "python is very popular language for development and machine learning sector. Web app, mobile app, machine learning etc are possible with python. Everyday increases its demand day by day",
       "photoURL": "https://contentstatic.techgig.com/thumb/msid-79386213,width-460,resizemode-4/5-Myths-around-Python-programming-language-that-every-programmer-must-know.jpg?88712"
     },
     {
       "id": "02",
       "name": "MySQL Database",
-      "description": "python is very popular language for development and machine learning sector.",
+      "description": "MySQL is the most popular Open Source Relational SQL database management system. MySQL is one of the best RDBMS being used for developing web-based software applications.",
       "photoURL": "https://i0.wp.com/datascientest.com/wp-content/uploads/2022/03/mySQL_blog_4-106.png?resize=1024%2C562&ssl=1"
     },
     {
       "id": "03",
       "name": "Big Data and Iot",
-      "description": "python is very popular language for development and machine learning sector.",
+      "description": "What is IoT in Big Data? Big data takes unstructured data, on anything from traffic patterns to home efficiency information, collected by IoT devices and organizes the information into digestible datasets that inform companies on how to optimize their processes.",
       "photoURL": "https://www.whizlabs.com/blog/wp-content/uploads/2018/07/iot-and-big-data.png"
     },
     {
       "id": "04",
       "name": "Graphics Design",
-      "description": "python is very popular language for development and machine learning sector.",
+      "description": "Graphic designers create visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, and captivate consumers. They develop the overall layout and production design for applications such as advertisements, brochures, magazines, and reports.",
       "photoURL": "https://cosmosgroup.sgp1.cdn.digitaloceanspaces.com/news/1071218_Graphic-Design.jpg"
     },
     {
       "id": "05",
       "name": "Data Structure and Algorithm",
-      "description": "python is very popular language for development and machine learning sector.",
+      "description": "A data structure is a named location that can be used to store and organize data. And, an algorithm is a collection of steps to solve a particular problem. Learning data structures and algorithms allow us to write efficient and optimized computer programs.",
       "photoURL": "https://miro.medium.com/max/828/1*-EFdnPuVrwUOmYte11v0OA.png"
     },
     {
       "id": "06",
       "name": "Mobile App development",
-      "description": "python is very popular language for development and machine learning sector.",
+      "description": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer.",
       "photoURL": "https://www.etatvasoft.com/blog/wp-content/uploads/2022/08/mobile-app-development-methodologies.jpg"
     }
     
